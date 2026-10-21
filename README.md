@@ -18,7 +18,7 @@ What's public here are clean copies with made-up data, made to show how the work
   approved by a person before it is placed. A colleague now runs it himself.
 - **[budget-dashboard](https://github.com/KindFellowPark/budget-dashboard)**: merges a
   spending tracker with the finance system's exports into a one-page budget view for my
-  director, and flags spending on accounts nobody is tracking.
+  director and me, and flags spending on accounts nobody is tracking.
 - **[accessibility-checks](https://github.com/KindFellowPark/accessibility-checks)**:
   accessibility rules the document tools follow while writing, and a check that tests the
   finished file and reports what it found in plain words.
