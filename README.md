@@ -13,6 +13,11 @@ What's public here are clean copies with made-up data, made to show how the work
   turns a meeting transcript into formatted minutes in Word, with a name check that stops for
   my confirmation before anything is drafted. Minutes that typically took two to three hours by
   hand now take about ten minutes from a labelled Teams or Zoom transcript.
+- **[jarvis-assistant](https://github.com/KindFellowPark/jarvis-assistant)**: an executive
+  assistant for an executive assistant. My partner and I text it over iMessage, because a text
+  never gets skipped the way email and notifications do. It handles the calendar, mail drafts,
+  bills and trip plans, and sending an email, removing an event or adding a bill waits for a
+  yes by text.
 - **[board-report-skill](https://github.com/KindFellowPark/board-report-skill)**: a Claude
   skill that builds the monthly report to a Board of Trustees in Canva, with every story
   approved by a person before it is placed. A colleague now runs it himself.
